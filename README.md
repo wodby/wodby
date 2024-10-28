@@ -1,6 +1,6 @@
 # Wodby 2.0 resources and public roadmap
 
-[Roadmap](https://github.com/orgs/wodby/projects/5)
+[**The Roadmap**](https://github.com/orgs/wodby/projects/5)
 
 Additional resources:
 
