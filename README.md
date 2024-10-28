@@ -1,4 +1,4 @@
-# Wodby 2.0 public roadmap
+# Wodby 2.0 resources and public roadmap
 
 - [Services](https://github.com/wodby/services)
 - [Stacks](https://github.com/wodby/stacks)
